@@ -14,5 +14,5 @@ If you want to use this with netlify. You do not need any configuration. Just re
 If you want to clone this repo:
 ```
 git clone <repo_url>
-git submodule update --init --recursive # clone submodules
+git submodule update --init --recursive # clone submodules.
 ```
